@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.E. in Automation (AGI Training Program)**, Tsinghua University, 2025 -- 2029
+  * Department of Automation, Beijing, China
+  * Current GPA: 3.9 / 4.0
 
-Work experience
+* **Graduate Studies (expected)**, Artificial General Intelligence, Tsinghua University, 2029 --
+
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Machine Learning — understanding the principles behind various frameworks
+* Mathematical Modeling — bridging reality and virtual environments
+* Embodied Intelligence — multi-agent interaction with humans and AI
+* Biochemistry — longevity and health science
+* Philosophy — the nature of "value" and cognition
+* Materials Science — robust materials supporting embodied intelligence
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: C++, Python
+* **Math & Modeling**: Mathematical modeling, data analysis
+* **Self-learning**: Efficient self-paced learning strategies
+* **Teamwork**: Collaboration, planning, and communication
+* **Languages**: Chinese (Native), English (Vocabulary 13000+)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Third Prize**, Robot Dog Contest
+* **Third Prize**, Agent Contest
+
+Extracurricular Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Member, Hardware Department of DA Science Association**, Tsinghua University
+  * July 2026 -- Present
+  * Attending training on programming languages and robotics topics
+  * Organizing competitions with other members
+
+Download CV
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Download CV (PDF)](/files/FengSheng_CV.pdf)
