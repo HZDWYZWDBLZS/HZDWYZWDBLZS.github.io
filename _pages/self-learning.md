@@ -8,6 +8,10 @@ author_profile: true
 
 宝贵的青春一定要好好利用起来：用你的记忆力记住尽可能多的知识，用你的头脑理解尽可能复杂的关系，用你的思维去设想最大胆的可能。
 
+## 感谢以下自学方案指导：
+- [北大朱毅鑫老师的主页](https://yzhu.io/s/research/getting_started/)
+- [北大CS自学指南](https://csdiy.wiki/)
+
 ## 学习建议
 
 自学时，一天有效学习时长要**大于 4 小时**。如果达不到，反思是不是学习内容太单一——可以每天安排 2~3 种内容交替学习。
@@ -23,9 +27,10 @@ author_profile: true
 **1. 熟悉电脑**
 - [B站视频：计算机基础知识](https://www.bilibili.com/video/BV1VV4y1U7Kn/) — 小白花 1~2 天看完就有收获
 
-**2. 阅读《汇编语言》**
+**2. 阅读《汇编语言》**(清华大学出版社)
 - 目的：了解计算机底层，大概把基础知识、寄存器和地址的章节看下来即可
-- 耗时：约 1 周，对后续学 C 语言有帮助
+- 耗时：约 1 周。
+- 评价：对后续学 C 语言有一些帮助，挺不错的。
 
 **3. C 语言程序设计（浙江大学 翁恺）**
 - [中国大学 MOOC 课程](https://chinaooc.com.cn/course/62354d249906eace048f13fb) / [B站视频合集](https://www.bilibili.com/video/BV1yentzxEqK/)
@@ -38,7 +43,7 @@ author_profile: true
 
 **5. 阅读《面向对象程序设计》**
 - 目的：掌握 C++ 基本语法，为后续用 C++ 学数据结构做准备
-- 耗时：不到 1 周（没时间练习，纯过语法）
+- 耗时：不到 1 周（没时间练习，纯过一遍语法）
 
 **6. 数据结构与算法（清华大学 邓俊辉）**
 - [学堂在线课程](https://next.xuetangx.com/course/THU08091000384/29593888)
@@ -49,7 +54,7 @@ author_profile: true
 
 **1. 线性代数 — MIT 18.06 (Gilbert Strang)**
 - [B站 中英双语字幕版](https://www.bilibili.com/video/BV1zx411g7gq/)
-- 讲得非常好，开学后不至于手忙脚乱
+- 评价：讲得非常好，能帮助理解线代的基本思想，开学后不至于手忙脚乱
 - 耗时：看了 3~4 个视频
 
 **2. 微积分**
@@ -64,6 +69,7 @@ author_profile: true
 ### Timeline
 
 **1. 数据结构（约 3 周）**
+- 资源：学堂在线-数据结构(邓俊辉)，课程自带全套资源
 - 自学了二叉树、图、二叉搜索树、平衡二叉搜索树、散列、优先级队列的基本算法
 - 进行了代码复现
 - 没写 Huffman 编码树——偏难且耗时
@@ -74,28 +80,56 @@ author_profile: true
 
 ---
 
-## 大一下暑假（期末考试后 — 返校）
+## 大一下期末考试后 — 小学期
 
 **总体思路：** 夏季小学期缩短了可用时间，但正因为如此**更应该抓紧时间**自学，不要老想着等"正式"放假再开始。正式放假后反而更容易懈怠。
 
 ### Timeline
 
 **1. 文献检索课**
-- [学堂在线：信息素养课](https://www.xuetangx.com/)（清华大学图书馆开设）
-- 能全面了解文献类别、来源、检索方式等，非常实用
+- 资源：[学堂在线：信息素养课](https://www.xuetangx.com/)（清华大学图书馆开设）
+- 评价：能全面了解文献类别、来源、检索方式等，非常实用
 - 耗时：抽空开倍速看，5 天足矣
 
 **2. [CS61A](https://cs61a.org/)（UC Berkeley）**
 - 来源：北大自学计划推荐
 - 目的：培养计算机 project 能力，顺带系统学 Python
 - 应用场景：9 月数学建模比赛、校内各种科创比赛
-- 耗时：3~4 周
-- **注意：** 此时应该学会使用 conda 进行虚拟环境管理
+- 耗时：3周多点
+- **注意：** 此时应该学会使用 conda 进行虚拟环境管理，可自行寻找教程，主要是路径设置较繁琐。
 
 **3. LaTeX 入门**
 - 用途：小学期科研培训、数学建模论文排版、长期学术写作工具
-- 耗时：待定
+- 耗时：2周左右
+- 评价：这个时间点学为时过早了，AI已能胜任大多数任务
 
-**4. Git 代码仓库管理**
+## 大一下暑假小学期结束 — 开学
 
-**5. 数学建模**
+**总体思路：** 暑假大概一个半月，刚好报了数学建模比赛，所以一直在学数学建模。发现概统很重要，无论是对数模还是强化学习的理解，就一块学了。因为要备赛，所以强化学习只开了个头。
+
+### Timeline
+
+**1.概率论与随机过程入门**
+- [MIT公开课程资源](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/pages/unit-i/lecture-1/) 
+- [B站中配视频资源](https://www.bilibili.com/video/BV1sFgX6JEZK/?spm_id_from=333.1387.favlist.content.click&vd_source=f016611209c0a0554a975ed65b5fe580)
+- 评价：讲得很好，都能听懂，很推荐学。并且这个是数学基础，无论做什么都离不开。
+
+**2.数学建模**
+- 用途：打数模比赛，希望学到建模思想与知识运用能力
+- 建议先修：概率论与数理统计
+- 评价：可能是我学的方法不对？总之学完以后就会调用几个优化的求解算法，原理、思想感觉啥也没学到。而且可能是概率论这块学得太晚，所以涉及统计的部分基本看不懂。总之看教材应该是不太够。
+
+## 大二上
+
+**总体思路：** 刚好课业压力不大，所以开始为进组作准备。先前在数模备赛时接触了git使用，现在系统了解一遍。另外Linux学习也不能放过，整个Windows子系统装Linux环境练练手。
+
+**1.git入门**
+- [tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [reference](https://git-scm.com/cheat-sheet)
+- 评价：越早学越好，只要涉及团队协作就绕不开。在使用中不断熟练，一定要敢于尝试，不确定就问AI，但不要什么都让AI直接完成。这些操作人类反而更高效。
+- 注：如何区分Tutorial, How-to-guide, Reference, Explanation? 关注PKU通班微信公众号学习。[PKU通班](https://mp.weixin.qq.com/s/lihDf2oSQlUli9svBNYsCA)
+
+**2.Linux入门**
+- [计算机缺失课，经典中的经典](https://missing-semester-cn.github.io/2026/course-shell/)
+- [Windows如何运行Linux环境？](https://learn.microsoft.com/zh-cn/windows/wsl/about)
+- 评价：直接看学案即可，一定要动手实操，所以第二个链接附上了Windows配置运行Linux环境的指导文档，这个方案比较成熟，而且适用很广。
